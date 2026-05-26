@@ -162,6 +162,14 @@ will be created automatically.
 
 ---
 
+# Bonus Features Implemented
+
+- CSV export for top-performing agent
+- Dynamic agent location updates after delivery
+- Defensive file handling using try-except
+
+---
+  
 # Future Improvements
 
 Possible enhancements:
